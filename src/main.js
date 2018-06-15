@@ -1,8 +1,11 @@
-import Vue from 'vue'
-import App from './App.vue'
+import Vue from 'vue/dist/vue.js'
+import App from './App'
 
 Vue.config.productionTip = false
 
+/* eslint-disable no-new */
 new Vue({
-  render: h => h(App)
-}).$mount('#app')
+  el: '#app',
+  template: '<App/>',
+  components: { App }
+})
