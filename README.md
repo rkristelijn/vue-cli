@@ -4,7 +4,7 @@ This project was cloned from [https://codesandbox.io/s/3y8nwrlr66](https://codes
 
 # Installation
 
-- `git clone https://github.com/rkristelijn/vue-cli.git`
+- `git clone https://github.com/rkristelijn/vue-tasklist.git`
 - `cd vue-cli`
 - `npm i`
 - `npm run serve`
@@ -24,3 +24,7 @@ This project was cloned from [https://codesandbox.io/s/3y8nwrlr66](https://codes
   Note that the development build is not optimized.
   To create a production build, run npm run build.
 ```
+
+# What's next
+
+This project was just a starting point to start integrating Vue with DHTMLX. See [this repo](https://github.com/rkristelijn/vue-dhtmlx)
