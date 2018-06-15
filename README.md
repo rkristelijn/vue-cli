@@ -5,7 +5,7 @@ This project was cloned from [https://codesandbox.io/s/3y8nwrlr66](https://codes
 # Installation
 
 - `git clone https://github.com/rkristelijn/vue-tasklist.git`
-- `cd vue-cli`
+- `cd vue-tasklist`
 - `npm i`
 - `npm run serve`
 
